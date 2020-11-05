@@ -16,11 +16,7 @@ For more information, as well as an immediately usable, binary version of
 the Bitcoin Core software, see https://bitcoincore.org/en/download/, or read the
 [original whitepaper](https://bitcoincore.org/bitcoin.pdf).
 
-License
--------
 
-Bitcoin Core is released under the terms of the MIT license. See [COPYING](COPYING) for more
-information or see https://opensource.org/licenses/MIT.
 
 Development Process
 -------------------
